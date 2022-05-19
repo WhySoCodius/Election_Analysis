@@ -21,7 +21,7 @@ After the results were drawn we need to write it in file [election_analysis](/an
 ## Election-Audit Results:
 The analvsis of the election show that:
  
-  ![Election results](/Resources/election_results.png)
+  ![Election results](/Resources/election__results.png)
   
 - There were 369,711 votes cast in the congressional election.
 
